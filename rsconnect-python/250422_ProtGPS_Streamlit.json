@@ -1,0 +1,12 @@
+{
+    "https://niams1vplshny01.niams.nih.gov/": {
+        "server_url": "https://niams1vplshny01.niams.nih.gov/",
+        "filename": "/Users/kannot2/Documents/250422_ProtGPS_Streamlit",
+        "app_url": "https://niams1vplshny01.niams.nih.gov/content/e7ea4b1e-b8fd-475d-ad26-3c3d8544ca60/",
+        "app_id": "e7ea4b1e-b8fd-475d-ad26-3c3d8544ca60",
+        "app_guid": "e7ea4b1e-b8fd-475d-ad26-3c3d8544ca60",
+        "title": "250422_ProtGPS_Streamlit",
+        "app_mode": "python-streamlit",
+        "app_store_version": 1
+    }
+}
